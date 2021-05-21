@@ -1,6 +1,6 @@
 ### REACT BUG
 
-A HTML snippet is render vastly different in React than in plain HTML. Same CSS styles, same code (structure).
+A HTML snippet is rendered vastly different in React than in plain HTML. Same CSS styles, same code (structure).
 
 ![BUG SCREENSHOT](Screenshot-span-react-bug.png?raw=true "BUG")
 
